@@ -1,0 +1,9 @@
+Number of principal components that explain at least 90% of the variance: 3
+Insights from PCA:
+Principal Components:
+1. The first principal component captures the overall productivity dynamics.
+2. Subsequent components capture variations in overtime and the number of workers.
+How to Use Principal Components:
+1. Reduce the complexity of analysis.
+2. Understand how factors interact and affect actual productivity.
+3. Focus on components that explain most of the variance for predictive modeling.
